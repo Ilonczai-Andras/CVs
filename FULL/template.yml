@@ -1,0 +1,335 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
+
+personal:
+  name: András Ilonczai
+  email: ilonczai.andras16@gmail.com
+  phone: (+36) 50 109 85 33
+  url: 
+  titles:
+    - Junior Full Stack Developer
+    - Student lecturer
+  location:
+    city: Debrecen
+    region: Hajdú-Bihar
+    country: Hungary
+  profiles:
+    - network: LinkedIn
+      username: András Ilonczai
+      url: https://www.linkedin.com/in/ilonczai-andrás-349b61265/
+    - network: GitHub
+      username: ilonczai-andras
+      url: https://github.com/Ilonczai-Andras
+
+work:
+  - organization:  Demonstrator from Programming Languages 2
+    url: https://inf.unideb.hu
+    location: Part-time
+    positions:
+      - position: Student lecturer
+        startDate: 2024-09-09
+        endDate: "Present"
+        highlights:
+          - My task was to help the students of the Programming Languages 2 course to learn the Java programming language.
+          - During the exercises, I helped the students to understand the material and answer the questions that arose.
+          - Holding regular consultations with students, providing individual assistance and mentoring to those who needed extra support.
+          - Collecting valuable feedback from students and tutors to improve and develop the course.
+  - organization: Avander Software Development
+    url: https://avander.io
+    location: Hybrid (HO / Budapest)
+    positions:
+      - position: Junior Software Developer
+        startDate: 2024-06-01
+        endDate: 2024-10-31
+        highlights:
+          - Participated in an Agile team, working in four-week sprints with daily standups.
+          - Contributed to frontend and backend tasks, including bug fixing and new feature development.
+          - Gained experience in full-stack development, problem-solving, and collaboration.
+  - organization:  Demonstrator from Programming Languages 1
+    url: https://inf.unideb.hu
+    location: Part-time
+    positions:
+      - position: Student lecturer
+        startDate: 2024-02-01
+        endDate: 2024-05-31
+        highlights:
+          - In my role as a Demonstrator for Programming Languages 1 at the University of Debrecen, I helped students understand fundamental programming concepts and languages. 
+          - I conducted regular consultations, provided individual assistance, and collected valuable feedback to enhance the course.
+
+  - organization: Medicor Kéziműszer Zrt.
+    url: 
+    location: Debrecen, Hajdú-Bihar, Hungary
+    positions:
+      - position: Standard Time Measuring Assistant
+        startDate: 2023-07-01
+        endDate: 2024-02-29
+        highlights:
+          - Conducted time measurement tasks to improve production efficiency.
+          - Worked closely with production line staff and management to streamline processes.
+          - Developed analytical skills and teamwork experience through data collection and reporting.
+  - organization: Wolt
+    url:
+    location: Debrecen, Hajdú-Bihar, Hungary
+    positions:
+      - position: Courier
+        startDate: 2023-03-01
+        endDate: 2023-09-30
+        highlights:
+          - Delivered orders efficiently, ensuring on-time service and customer satisfaction.
+          - Developed time management and customer service skills.
+          
+  - organization: TESCO
+    url: 
+    location: Nyíregyháza, Szabolcs-Szatmár-Bereg, Hungary
+    positions:
+      - position: Cashier
+        startDate: 2020-10-01
+        endDate: 2020-12-31
+        highlights:
+          - Managed cash transactions efficiently and accurately in a fast-paced retail environment.
+          - Improved customer service skills by handling requests and resolving issues promptly.
+
+
+education:
+  - institution: University of Debrecen
+    url: https://inf.unideb.hu
+    area: Computer Science Engineering
+    studyType: Bachelor's degree
+    startDate: 2021-09-01
+    endDate: 2025-06-30
+    location: Debrecen, Hungary
+    honors:
+    courses:
+      - Calculus
+      - Mathematical Statistics
+      - x86 Assembly
+      - Mathematics
+    highlights:
+  - institution: Nyíregyházi Egyetem Eötvös József Gyakorló Általános Iskola és Gimnázium
+    url: https://eotvos.nye.hu
+    area: Advanced maths faculty
+    studyType: High school
+    startDate: 2021-09-01
+    endDate: 2025-06-30
+    location: Nyíregyháza, Szabolcs-Szatmár-Bereg, Hungary
+    honors:
+    courses:
+      - Informatics
+      - Mathematics
+    highlights:
+
+affiliations:
+  - organization: White Hat Hackers Association
+    position: Vice President for Internal Affairs
+    location: Cambridge, United Kingdom
+    url: https://example.com
+    startDate: 2020-05-30
+    endDate: 2021-05-30
+    highlights:
+      - But I must explain to you how all this mistaken idea of reprobating pleasure and extolling pain arose.
+      - But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+      - Can you then suppose that those heroic men performed their famous deeds without any motive at all?
+  - organization: London Bridge Toastmasters Club
+    position: Member
+    location: City of London, United Kingdom
+    url:
+    startDate: 2022-06-15
+    endDate: 2023-06-30
+    highlights:
+      - Won Champion in the Division A District X Speech Evaluation Contest of Toastmasters International
+      - Promising Toastmaster of the Year (PY 2022-2023)
+      - Tell me, pray, what explanation do you put upon their actions?
+
+awards:
+  - title: Champion in the Division A District X Speech Evaluation Contest
+    date: 2023-05-09
+    issuer: Toastmasters International
+    url:
+    location: City of London, United Kingdom
+    highlights:
+  - title: "Finalist in the 2020 SCG Bangkok Business Challenge Global Competition"
+    date: 2020-07-12
+    issuer: Sasin School of Management
+    url:
+    location: Bangkok, Thailand
+    highlights:
+      - "Made it to the Top 5 (selected from over 100 teams) in the world for the semi-finals of the SCG Bangkok Business Challenge #sym.at Sasin 2020 Global Competition held at Bangkok, Thailand from July 7-12, 2020."
+      - "Served as the speaker and presented in the 60-second pitch round of the Opening Reception of the SCG Bangkok Business Challenge #sym.at Sasin 2022 for Team London Bridge."
+
+certificates:
+  - name: "IT Specialist Python"
+    date: 2024-05-01
+    issuer: Certiport - A Pearson VUE Business
+    url: https://example.com
+    id: "DKQa-4wb2"
+    
+  - name: "International Computer Drivers License - Level One (ICDL)"
+    date: 2021-07-01
+    issuer: ECDL
+    url: https://example.com
+    id: "HU000005938"
+
+publications:
+  - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
+    publisher: Theoretical and Computational Fluid Dynamics
+    releaseDate: 2020-09-30
+    url: https://example.com
+
+projects:
+  - name: "Engineering Calculator"
+    url: https://github.com/Ilonczai-Andras/Engineering-calculator-thesis
+    affiliation: University of Debrecen
+    startDate: 2024-03-01
+    endDate: 2024-08-31
+    highlights:
+      - This application, designed in Python using the PyQt5 library, offers more than simple arithmetic—it includes modules for complex mathematical functions such as calculus, differential equations, probability, statistics, and logical operations. 
+      - The thesis covers technology choices, including Python’s object-oriented features, exception handling, and graphical libraries.
+      - This calculator’s user-friendly interface integrates multiple mathematical tools into one accessible application, demonstrating the intersection of mathematics and programming in practical engineering tasks.
+      
+  - name: "PHP Login Interface"
+    url: https://github.com/Ilonczai-Andras/PHP-login_interface
+    affiliation: University of Debrecen
+    startDate: 2024-02-01
+    endDate: 2024-05-31
+    highlights:
+      - Developed a responsive web application featuring a secure and user-friendly login form using HTML, CSS, and PHP. The form includes real-time validation for input fields, ensuring data accuracy before submission. 
+      - Custom CSS styling provides a polished and professional UI, with smooth transitions and responsive layout adjustments for mobile and desktop users. 
+      - The backend PHP script processes login credentials securely, authenticating users against stored data and redirecting them based on access rights. 
+      - Designed with accessibility in mind, offering seamless navigation and interaction across all devices.
+      
+  - name: "Rock Paper Scissors Web Game"
+    url: https://github.com/Ilonczai-Andras/Rock_paper_scissor
+    affiliation: University of Debrecen
+    startDate: 2024-02-01
+    endDate: 2024-05-31
+    highlights:
+      - Developed an interactive Rock-Paper-Scissors game using HTML, CSS, and JavaScript. 
+      - The game allows players to choose between rock, paper, or scissors, competing against a computer opponent with randomized choices. 
+      - The interface includes dynamic scoring and feedback, with each match result updating player and computer scores, along with a tie counter. 
+      - CSS animations add a hover effect to each option for an engaging user experience. This project demonstrates front-end development skills, focusing on DOM manipulation, event handling, and responsive design.
+  - name: "Computer graphics"
+    url: https://github.com/Ilonczai-Andras/Computer-graphics/tree/main/OpenGL/Computer%20graphics%20university%20project
+    affiliation: University of Debrecen
+    startDate: 2024-02-01
+    endDate: 2024-05-31
+    highlights:
+      - In my Computer Graphics course at the University of Debrecen, i have successfully completed these three projects, each involving complex graphical programming and interactive elements.
+
+      - Project 1 - Bouncing Circle You created a dynamic circle that moves horizontally, bouncing off window edges, with color gradients from red to green. You also added a user-controlled horizontal line and implemented color changes based on the circle's position.
+
+      - Project 2 - Bézier Curve Drawing Application This project involved creating a third-degree Bézier curve with draggable control points. You enhanced the interface with a control polygon, color customization, and features allowing users to add or remove control points dynamically.
+
+      - Project 3 - 3D Cube Scene with Camera and Lighting Here, you set up a 3D environment with a camera that rotates around a central cube and displays two additional cubes in view. You configured perspective projection and enabled camera movement along the z-axis, completing all required features.
+      
+  - name: "Systems oriented programming"
+    url: https://github.com/Ilonczai-Andras/C-programming-projects/tree/main/Systems-oriented-programming
+    affiliation: University of Debrecen
+    startDate: 2024-02-01
+    endDate: 2024-05-31
+    highlights:
+      - Developed a data communication application in C for efficient data transmission using both socket and file-based methods. 
+      - The project includes a unique bitmap (BMP) image generator that visually represents received numerical data. Key features include structured data handling via sockets and files, real-time signal management, and file creation with custom BMP headers and pixel arrays. 
+      - This solution showcases capabilities in low-level systems programming, integrating file I/O, socket programming, and bitmap image generation in a seamless communication protocol.
+      
+  - name: "Embedded Systems Projects"
+    url: https://github.com/Ilonczai-Andras/Embedded-systems/tree/main/Rasberry%20PI%20-%20Python
+    affiliation: University of Debrecen
+    startDate: 2023-09-01
+    endDate: 2024-02-28
+    highlights:
+      - Hands-on Python projects demonstrating embedded systems concepts, developed for Raspberry Pi. 
+      - Covers practical applications of sensors, actuators, and communication protocols, showcasing both fundamental principles and advanced implementations in embedded systems.
+      
+  - name: "Java Image Scrolling Website"
+    url: https://github.com/Ilonczai-Andras/Java-programming-projects/tree/main/Java-image-scrolling-website
+    affiliation: University of Debrecen
+    startDate: 2023-09-01
+    endDate: 2024-02-28
+    highlights:
+      - Created a Java-based application that transforms a folder of images, including nested folders, into a fully navigable website. 
+      - This tool automatically scans directories, generates HTML pages for each image, and links them with navigation controls for seamless scrolling. 
+      - Users can explore image galleries directly in their browsers, with intuitive forward/backward navigation. 
+      - This project showcases expertise in Java file handling, automated HTML generation, and dynamic webpage creation, providing an efficient way to turn local image collections into a browsable web format.
+      
+  - name: "Chat application"
+    url: https://github.com/Ilonczai-Andras/Csharp-programming-projects/tree/main/Chat-application
+    affiliation: University of Debrecen
+    startDate: 2023-02-01
+    endDate: 2023-05-30
+    highlights:
+      - Built a Chat application in C\# using wpf.
+      
+  - name: "Basic System Monitor program"
+    url: https://github.com/Ilonczai-Andras/Python-programming-projects/tree/main/System-monitoring-program
+    affiliation: University of Debrecen
+    startDate: 2023-02-01
+    endDate: 2023-02-28
+    highlights:
+      - Developed a Python-based system monitoring tool that tracks CPU, memory, and disk usage, logging data at regular intervals. 
+      - The tool creates daily log files, enabling users to monitor system performance over time. Users can configure the monitoring duration or retrieve real-time metrics directly to the console. 
+      - This project demonstrates proficiency in Python scripting for real-time data collection, file management, and system resource analysis.
+  - name: "Morse Android App"
+    url: https://github.com/Ilonczai-Andras/Mobile-app-development-projects/tree/main/Android/Morse-Android-App
+    affiliation: University of Debrecen
+    startDate: 2023-02-01
+    endDate: 2023-02-28
+    highlights:
+      - Developed an Android app that converts text into Morse code signals using the device’s flashlight. 
+      - Users can input text either through the keyboard or by extracting it from an image using OCR, making the app versatile for various input methods. 
+      - This project combines text recognition with hardware control, allowing Morse code signaling in real-time, ideal for both practical and educational use.
+
+skills:
+  - category: Programming Languages
+    skills:
+      - Python
+      - Java
+      - C
+      - C#
+      - C++
+      - SQL
+      - x86 Assembly
+      - Matlab
+  - category: Web Development
+    skills:
+      - PHP
+      - HTML
+      - CSS
+      - JavaScript
+      - Angular
+      - TypeScript
+  - category: Tools & Technologies
+    skills:
+      - OpenGL
+      - Android Studio
+      - Azure DevOps Services
+      - LabView
+      - Microsoft Excel
+      - Linux
+      - Git
+      - WPF
+  - category: Embedded Systems
+    skills:
+      - Raspberry Pi
+  - category: Operating Systems
+    skills:
+      - Linux
+      - Windows
+
+languages:
+  - language: English
+    fluency: Professional Working Proficiency
+
+interests:
+  - Programming
+  - Hardware and Embedded Systems
+  - Video Games
+  - Anime
+  - Reading
+  - Sports
+
+references:
+  # You can comment out the entries below if you don't have any references
+  # The same goes for the publications
+
+  - name: Dr. Jane Austin
+    reference: John was a great student. He was always eager to learn new things and was very passionate about his studies. As his mentor, I am proud to say that he was also a great leader and was able to lead his team to victory in the 2020 SCG Bangkok Business Challenge Global Competition.
+    url: https://janeaustin.com

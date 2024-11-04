@@ -1,2 +1,1 @@
-# Szakmai-CV
-Szakmai önélerajz
+
