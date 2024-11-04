@@ -186,7 +186,7 @@ projects:
       - This calculator’s user-friendly interface integrates multiple mathematical tools into one accessible application, demonstrating the intersection of mathematics and programming in practical engineering tasks.
       
   - name: "PHP Login Interface"
-    url: https://github.com/Ilonczai-Andras/PHP-login_interface
+    url: https://github.com/Ilonczai-Andras/Web-development-projects/tree/main/PHP/PHP-login_interface
     affiliation: University of Debrecen
     startDate: 2024-02-01
     endDate: 2024-05-31
@@ -197,7 +197,7 @@ projects:
       - Designed with accessibility in mind, offering seamless navigation and interaction across all devices.
       
   - name: "Rock Paper Scissors Web Game"
-    url: https://github.com/Ilonczai-Andras/Rock_paper_scissor
+    url: https://github.com/Ilonczai-Andras/Web-development-projects/tree/main/Basic_html_css_js/Rock_paper_scissor
     affiliation: University of Debrecen
     startDate: 2024-02-01
     endDate: 2024-05-31
