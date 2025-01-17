@@ -6,7 +6,6 @@ personal:
   phone: (+36) 50 109 85 33
   url: 
   titles:
-    - Junior Full Stack Developer
     - Student lecturer
   location:
     city: Debrecen
@@ -95,7 +94,7 @@ education:
     area: Computer Science Engineering
     studyType: Bachelor's degree
     startDate: 2021-09-01
-    endDate: 2025-06-30
+    endDate: 2025-02-14
     location: Debrecen, Hungary
     honors:
     courses:
@@ -175,6 +174,16 @@ publications:
     url: https://example.com
 
 projects:
+  - name: "Software Development for Engineers"
+    url: https://github.com/lm108109/cukorvirag
+    affiliation: University of Debrecen
+    startDate: 2024-09-01
+    endDate: 2025-02-28
+    highlights:
+      - Developed a web application for a fictional bakery as part of a university project, focusing on order management and customer communication. 
+      - Handled the frontend development using React and Tailwind CSS to create a responsive and user-friendly interface. 
+      - Collaborated in a team of four, adhering to software development best practices.
+      
   - name: "Engineering Calculator"
     url: https://github.com/Ilonczai-Andras/Engineering-calculator-thesis
     affiliation: University of Debrecen
